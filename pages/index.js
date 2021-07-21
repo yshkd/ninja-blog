@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Yushi's Blog | Home</title>
+        <title>Yushi`s Blog | Home</title>
         <meta name="keywords" content="yushi"/>
       </Head>
       <div>
